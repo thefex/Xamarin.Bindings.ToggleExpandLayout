@@ -56,7 +56,7 @@
   <ItemGroup>
     <None Include="Jars\AboutJars.txt" />
     <None Include="Additions\AboutAdditions.txt" />
-    <LibraryProjectZip Include="Jars\ToggleExpandLayout-774e497692.aar" />
+    <LibraryProjectZip Include="Jars\ToggleExpandLayout-9de3036db.aar" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>

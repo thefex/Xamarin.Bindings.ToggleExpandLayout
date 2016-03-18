@@ -2,13 +2,13 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
   <metadata>
     <id>Xamarin.Bindings.ToggleExpandLayout</id>
-    <version>2.4.0</version>
+    <version>2.5.0</version>
     <title>Xamarin.Bindings.ToggleExpandLayout</title>
     <authors>Przemek Raciborski [thefex] - Bindings Library, Rongchan Liu [fenjuly] - orginal java library</authors>
     <licenseUrl>http://opensource.org/licenses/ms-pl.html</licenseUrl>
     <projectUrl>https://github.com/thefex/Xamarin.Bindings.ToggleExpandLayout</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Binding library of https://github.com/fenjuly/ToggleExpandLayout version: 774e497692</description>
+    <description>Binding library of https://github.com/fenjuly/ToggleExpandLayout version: 9de3036db</description>
       <tags>xamarin android monodroid xamarin.android</tags>
     <dependencies>
       <group targetFramework="monoandroid60">
